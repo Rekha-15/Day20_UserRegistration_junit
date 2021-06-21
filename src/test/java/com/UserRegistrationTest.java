@@ -1,8 +1,14 @@
+/**********************************************************************
+ *@purpose Writing JUnit Test casses for User Registration Program
+ *@author rekha
+ *@version 1.0
+ *@since 20-06-2021
+ ************************************************************************/
+
 package com;
 
 import org.junit.Assert;
 import org.junit.Test;
-
 import com.UserRegistration_junit.UserRegistration;
 
 public class UserRegistrationTest {

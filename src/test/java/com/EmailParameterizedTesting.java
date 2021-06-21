@@ -1,3 +1,10 @@
+/********************************************************************************
+ *@purpose Parameterised Test to validate multiple entry for the Email Address. 
+ *@author Rekha
+ *@version 1.0
+ *@since 20-06-2021
+ **********************************************************************************/
+
 package com;
 
 import org.junit.Assert;
